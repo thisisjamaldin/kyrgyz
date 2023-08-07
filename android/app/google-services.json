@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "66312077378",
+    "project_id": "kyrgyz-1",
+    "storage_bucket": "kyrgyz-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66312077378:android:ec8a8c26b0d7f7b8bc6ddb",
+        "android_client_info": {
+          "package_name": "com.joma.kyrgyz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66312077378-jfn05rbc8gr0jbg4757jbgd3makiqk3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqBra55mJXVewr5MiDo8OrLLCY7GW0nnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66312077378-jfn05rbc8gr0jbg4757jbgd3makiqk3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

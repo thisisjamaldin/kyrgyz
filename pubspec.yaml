@@ -1,0 +1,60 @@
+name: kyrgyz
+description: A new Kyrgyz project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+  shared_preferences: ^2.2.0
+  firebase_core: ^2.15.0
+  cloud_firestore: ^4.8.4
+  firebase_storage: ^11.2.5
+  home_widget: ^0.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: OpenSans
+      fonts:
+        - asset: assets/fonts/open_sans_regular.ttf
+        - asset: assets/fonts/open_sans_semi_bold.ttf
+          weight: 600
+        - asset: assets/fonts/open_sans_bold.ttf
+          weight: 700
+  assets:
+    - assets/images/1.jpg
+    - assets/images/2.jpg
+    - assets/images/3.jpg
+    - assets/images/4.jpg
+    - assets/images/icon.png
+    - assets/images/bg.png
+
+    - assets/icons/awesome.png
+    - assets/icons/good.png
+    - assets/icons/ok.png
+    - assets/icons/bad.png
+    - assets/icons/terrible.png
+    - assets/icons/other.png
+    - assets/icons/finger.png
+    - assets/icons/crown.png
+    - assets/icons/share.png
+    - assets/icons/like.png
+    - assets/icons/menu.png
+    - assets/icons/customize.png
+    - assets/icons/profile.png
+
+
